@@ -1,3 +1,4 @@
+/*Luke 20:25 "Caesar's," they replied. He said to them, "Then give to Caesar what is Caesar's, and to God what is God's.*/
 const numberInput = document.getElementById("number");
 const convertBtn = document.getElementById("convert-btn");
 const output = document.getElementById("output");
